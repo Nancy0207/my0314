@@ -12,3 +12,12 @@ H:\mybook\VB\VB2010\ch2\計程車車資計算\計程車車資計算\obj\x86\Debu
 F:\VB2010\ch2\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\計程車車資計算.exe
 F:\VB2010\ch2\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\計程車車資計算.xml
 F:\VB2010\ch2\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\計程車車資計算.pdb
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\計程車車資計算.exe
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\計程車車資計算.xml
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\計程車車資計算.pdb
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\bin\Debug\計程車車資計算.exe
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\bin\Debug\計程車車資計算.pdb
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\bin\Debug\計程車車資計算.xml
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\790\Desktop\my0314\ex-計程車車資計算\計程車車資計算\obj\x86\Debug\計程車車資計算.vbproj.GenerateResource.Cache
